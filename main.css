@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container{
+    max-width: 1580px;
+    margin: 0 auto;
+    padding: 0 15px;
+
+
+}
+
+.war{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    h4{
+        margin-left: 80px; 
+
+    }
+
+    a{
+        text-decoration: none;
+        color: black;
+    
+ 
+    }
+}
+
+.war2{
+    display: flex;
+    gap: 40px;
+}
+
+.box1{
+    margin-top: 208px;
+    font-size: 44px;
+    margin-left: 80px;
+}
+
+.pla{
+    margin-top: 171px;
+    margin-left: 80px;
+}
+
+.box2{
+    display: flex;
+    gap: 300px;
+    margin-left: 80px;
+    margin-top: 268px;
+    h3{
+        font-size: 56px;
+        width: 550px;
+        margin-bottom: 60px;
+    }
+
+    h4{
+        font-size: 40px;
+        width: 558px;
+        margin-bottom: 66px;
+    }
+
+    p{
+        font-size: 22px;
+        width: 400px;
+        margin-top: 36px;
+    }
+}
+
+.section3{
+    img{
+        width: 100%;
+        margin-top: 253px;
+    }
+}
+
+.box4{
+    h3{
+        font-size: 55px;
+        text-align: center;
+        margin-bottom: 80px;
+    }
+
+    img{
+        margin-left: 110px;
+    }
+}
+
+.cards{
+    p{
+    margin-bottom: 185px;
+    }
+
+    margin-bottom: 100px;
+}
+
+
+.footer{
+    background-color: black;
+    margin: 350px -10px -10px -10px;
+    padding: 260px;
+
+    h1{
+        color: white;
+        text-align: center;
+        font-size: 54px;
+    }
+
+    .end{
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+
+        p{
+            color: #818181;
+        }
+    }
+
+    .end2{
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+
+        p{
+            color: #818181;
+        }
+    }
+}
